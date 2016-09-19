@@ -140,8 +140,8 @@ nav {
 		    color: #339999;
 		}
 		#contact-info {
-			margin-top: -33px;
-			margin-left: 118px;
+			margin-top: -32px;
+    		margin-left: 68px;
 		}
 		#envelope {
 		    width: 45px;
@@ -156,10 +156,14 @@ nav {
 			color: #f55649;
 			padding-left: 2px;
 		}
+		#email-address {
+			margin-top: -38px;
+    		margin-left: 50px;
+		}
 		#email-address a {
 			text-decoration: none;
 			color: #339999;
-			font-size: 24px;
+			font-size: 22px;
 		}
 		#contact h3 {
 			display: none;
