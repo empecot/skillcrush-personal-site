@@ -133,16 +133,15 @@ nav {
 	background-image: url('../img/contact-image.jpg');
 	background-repeat: no-repeat;
 	width: 100%;
+	height: 500px;
 }
-		#contact .half-width {
-		 	width: 80%;
-		 	float: right;
-		}
+		
 		#contact h2, #contact ul {
 		    color: #339999;
 		}
 		#contact-info {
-			margin-top: 20px;
+			margin-top: -33px;
+			margin-left: 118px;
 		}
 		#envelope {
 		    width: 45px;
@@ -150,6 +149,8 @@ nav {
 		#contact h2 {
 		    font-family: 'Palatino', sans-serif;
 		    font-size: 32px;
+		    width: 285px;
+		    margin-left: 70px;
 		}
 		#contact h2 span {
 			color: #f55649;
